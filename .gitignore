@@ -1,17 +1,9 @@
-/__tests__/__image_snapshots__/**/__diff_output__
-/__tests__/html2/**/*.snap-*-diff.png
-/.env
-/*.tgz
-/coverage
-/debug.log
-/gh-pages
-/node_modules
-/tarball.zip
-
-# Do not commit binaries
-/chromedriver*
-chromedriver.exe
-
-/image-snapshots.zip
-/.vs
-.DS_Store
+/__tests__/__
+image_snapshots 
+/ diff_output /_tests/html2 /*.snap -*-diff.png
+/*.tgz 
+/gh-pages  /node_modules  
+/tarball.zip # Do not
+commit bbinariesl/chrome
+driver*chromedriver.exe 
+/image-snapshots.zip /.vs .DS_Store
