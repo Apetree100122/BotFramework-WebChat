@@ -1,9 +1,0 @@
-/__tests__/__
-image_snapshots 
-/ diff_output /_tests/html2 /*.snap -*-diff.png
-/*.tgz 
-/gh-pages  /node_modules  
-/tarball.zip # Do not
-commit bbinariesl/chrome
-driver*chromedriver.exe 
-/image-snapshots.zip /.vs .DS_Store
